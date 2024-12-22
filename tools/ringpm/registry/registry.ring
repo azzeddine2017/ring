@@ -774,5 +774,9 @@ aPackagesRegistry = [
 	[ :name = "SysInfo",
           :description = "A package to retrieve essential system information for the Ring programming language",
           :ProviderUserName = "ysdragon"
+        ],
+	[ :name = "ring_subprocess",
+          :description = "A powerful subprocess management extension for the Ring programming language that provides a simple interface for creating and managing system processes.",
+          :ProviderUserName = "Azzeddine2017"
         ]
 ]
